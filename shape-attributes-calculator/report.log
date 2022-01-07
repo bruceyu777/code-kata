@@ -1,0 +1,7 @@
+2022-01-07 12:43:08,340 logging_setting logging_setting [INFO] - loggind started..."
+2022-01-07 12:43:13,698 __main__ shape_oop_factory [WARNING] - 1 is a float"
+2022-01-07 12:43:14,218 __main__ shape_oop_factory [WARNING] - 2 is a float"
+2022-01-07 12:43:14,650 __main__ shape_oop_factory [WARNING] - 3 is a float"
+2022-01-07 12:43:15,626 __main__ shape_oop_factory [WARNING] - 1.0 is a float"
+2022-01-07 12:43:15,627 __main__ shape_oop_factory [WARNING] - 2.0 is a float"
+2022-01-07 12:43:15,627 __main__ shape_oop_factory [WARNING] - 3.0 is a float"
